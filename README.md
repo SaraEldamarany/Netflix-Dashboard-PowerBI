@@ -25,6 +25,6 @@ The dataset used in this project was sourced from publicly available Netflix dat
 2. Open it using Power BI Desktop.  
 3. Interact with slicers and filters to explore different dimensions of the data.
 
-![Netflix Dashboard](https://github.com/SaraEldamarany/Netflix-Dashboard-PowerBI.git-/raw/main/Dashboard_NETFLIX.png)
+![Netflix Dashboard](https://github.com/SaraEldamarany/Netflix-Dashboard-PowerBI-/raw/main/Dashboard_NETFLIX.png)
 
 
